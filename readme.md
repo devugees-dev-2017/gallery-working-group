@@ -61,8 +61,10 @@ Prequisits:
     - all pages have a top navigation bar
     - our website shall have 3 html documents,
     one for the single page app sections
-         1. home, contact/about, biography
-         2. Gallery/Portfolio, photo categories
+         1. home
+         2. contact/about, biography
+         3. Gallery/Portfolio
+
 
 Styling: 
     for headings:
