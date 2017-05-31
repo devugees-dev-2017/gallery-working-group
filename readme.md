@@ -65,6 +65,7 @@ Prequisits:
          2. Gallery/Portfolio, photo categories
 
 Styling: 
+
     for headings:
         Font 'Old Standard TT' (serif)
     for block text:
@@ -72,3 +73,5 @@ Styling:
 
      appearance shall be monochrome b/w
      colors: black, white, gray
+
+     
