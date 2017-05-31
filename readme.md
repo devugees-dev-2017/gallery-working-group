@@ -3,15 +3,15 @@
 
 _work in progress_
 
-Site structure:
-
+++Site structure
+abcd
     1. home
     2. Gallery/Portfolio
         a. photo categories
     3. bio 
         a. contact
         b. about
-
+        
 
 Views:
     
